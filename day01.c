@@ -1,5 +1,5 @@
-// #include<stdio.h>
-# include<stdio.h>
+
+# include<stdio.h> // pre processor directive
 
 int main(){
     printf("%d", 45);
